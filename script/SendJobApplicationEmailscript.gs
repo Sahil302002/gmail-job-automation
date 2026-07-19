@@ -6,7 +6,7 @@ const sheet = SpreadsheetApp
 
 const data = sheet.getDataRange().getValues();
 
-const resumeFileId = "1iztVFt_UTdzBJgPMbsPoFeXxWcyj-AH0";
+const resumeFileId = "1iXXXXXXXXXXXXXXXXXXXXXXXXX";
 
 const linkedinProfile =
 "https://www.linkedin.com/in/sahilgupta-dataanalyst/";
